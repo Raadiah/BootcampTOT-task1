@@ -15,7 +15,7 @@ body {
 }
 
 main section {
-    width: 400px;
+    width: 420px;
     margin: auto;
 }
 
@@ -25,14 +25,14 @@ main section {
     background-color: white;
     background-image: url('../images/Glasses.png');
     background-repeat: no-repeat;
-    background-position: 50% 82%;
-    height: 350px;
+    background-position: 50% 80%;
+    height: 380px;
     border-radius: 0 0 50% 50%;
 }
 
 .banner-body {
     position: relative;
-    top: 38%;
+    top: 40%;
     text-align: center;
 }
 
